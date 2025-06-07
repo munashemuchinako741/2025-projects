@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+pandas
+gspread
+oauth2client
+beautifulsoup4
+PyPDF2
+python-docx
+tiktoken
